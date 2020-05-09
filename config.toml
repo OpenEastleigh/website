@@ -1,0 +1,34 @@
+baseURL = "https://ge2019.nti.me.uk/"
+languageCode = "en-gb"
+title = "Open Eastleigh"
+theme = "mediumish-gohugo-theme"
+copyright = "2020. All rights reserved."
+
+[permalinks]
+  tools = "/:filename/"
+
+[params]
+  logo = "/images/logo.png"
+  description = ""
+
+[params.author]
+  name = "James Taylor"
+  thumbnail = "/images/tbc.png"
+  description = ""
+
+[params.index]
+#  picture = "/images/logo.png"
+  title = "Open Eastleigh"
+  subtitle = "Tools for Eastleigh"
+  alertbar = true
+
+[params.social]
+  github = "OpenEastleigh"
+  twitter = "jtonline"
+
+## Main Menu
+[[menu.main]]
+  name = "About"
+  weight = 100
+  identifier = "about"
+  url = "/about/"
