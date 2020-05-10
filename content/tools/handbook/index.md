@@ -1,6 +1,6 @@
 ---
 title: "Eastleigh Handbook"
-draft: true
+draft: false
 link: "https://handbook.openeastleigh.uk/"
 
 ---
