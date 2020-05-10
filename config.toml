@@ -9,7 +9,7 @@ copyright = "2020. All rights reserved."
 
 [params]
   logo = "/images/logo.png"
-  description = ""
+  description = "Collaborative tools for Eastleigh"
 
 [params.author]
   name = "James Taylor"
@@ -19,7 +19,7 @@ copyright = "2020. All rights reserved."
 [params.index]
 #  picture = "/images/logo.png"
   title = "Open Eastleigh"
-  subtitle = "Tools for Eastleigh"
+  subtitle = "Collaborative tools for Eastleigh"
   alertbar = true
 
 [params.social]
